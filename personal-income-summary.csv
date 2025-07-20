@@ -1,0 +1,191 @@
+"SQINC1 State quarterly personal income summary: personal income, population, per capita personal income"
+"SQINC1 State quarterly personal income summary: personal income, population, per capita personal income"
+State or DC
+GeoFips,GeoName,LineCode,Description,2024:Q1,2024:Q2,2024:Q3,2024:Q4
+00000,United States,1,"Personal income (millions of dollars, seasonally adjusted)",24318722.3,24548487.4,24690859.0,25016500.5
+00000,United States,2,"Population (midperiod, persons) 1",338875934,339684489,340391641,340918984
+00000,United States,3,Per capita personal income (dollars) 2,71763,72268,72537,73380
+01000,Alabama,1,"Personal income (millions of dollars, seasonally adjusted)",287602.2,290627.3,293732.1,296819.9
+01000,Alabama,2,"Population (midperiod, persons) 1",5142614,5152438,5162130,5170271
+01000,Alabama,3,Per capita personal income (dollars) 2,55925,56406,56901,57409
+02000,Alaska *,1,"Personal income (millions of dollars, seasonally adjusted)",55118.3,55294.8,55856.5,56518.0
+02000,Alaska *,2,"Population (midperiod, persons) 1",738749,739649,740387,740855
+02000,Alaska *,3,Per capita personal income (dollars) 2,74610,74758,75442,76288
+04000,Arizona,1,"Personal income (millions of dollars, seasonally adjusted)",484791.3,488467.7,489808.6,500039.9
+04000,Arizona,2,"Population (midperiod, persons) 1",7541965,7568567,7593139,7613732
+04000,Arizona,3,Per capita personal income (dollars) 2,64279,64539,64507,65676
+05000,Arkansas,1,"Personal income (millions of dollars, seasonally adjusted)",181361.3,182645.7,185653.5,188410.8
+05000,Arkansas,2,"Population (midperiod, persons) 1",3081226,3085861,3090597,3094653
+05000,Arkansas,3,Per capita personal income (dollars) 2,58860,59188,60070,60883
+06000,California,1,"Personal income (millions of dollars, seasonally adjusted)",3317643.9,3354379.9,3384949.7,3446846.5
+06000,California,2,"Population (midperiod, persons) 1",39346851,39401411,39441203,39458158
+06000,California,3,Per capita personal income (dollars) 2,84318,85133,85823,87354
+08000,Colorado,1,"Personal income (millions of dollars, seasonally adjusted)",487302.1,492873.8,492500.4,499034.8
+08000,Colorado,2,"Population (midperiod, persons) 1",5936272,5950154,5962771,5972763
+08000,Colorado,3,Per capita personal income (dollars) 2,82089,82834,82596,83552
+09000,Connecticut,1,"Personal income (millions of dollars, seasonally adjusted)",338787.9,341480.6,343514.4,347988.4
+09000,Connecticut,2,"Population (midperiod, persons) 1",3663142,3670919,3677308,3681408
+09000,Connecticut,3,Per capita personal income (dollars) 2,92486,93023,93415,94526
+10000,Delaware,1,"Personal income (millions of dollars, seasonally adjusted)",71529.9,72871.0,73102.7,74023.7
+10000,Delaware,2,"Population (midperiod, persons) 1",1046173,1049957,1053586,1056787
+10000,Delaware,3,Per capita personal income (dollars) 2,68373,69404,69385,70046
+11000,District of Columbia,1,"Personal income (millions of dollars, seasonally adjusted)",75204.8,76081.9,76005.7,77730.7
+11000,District of Columbia,2,"Population (midperiod, persons) 1",696589,700335,703316,705475
+11000,District of Columbia,3,Per capita personal income (dollars) 2,107962,108636,108068,110182
+12000,Florida,1,"Personal income (millions of dollars, seasonally adjusted)",1625770.4,1635550.0,1650362.8,1673611.8
+12000,Florida,2,"Population (midperiod, persons) 1",23199109,23313278,23410787,23486014
+12000,Florida,3,Per capita personal income (dollars) 2,70079,70155,70496,71260
+13000,Georgia,1,"Personal income (millions of dollars, seasonally adjusted)",689625.9,694566.2,698120.8,709974.0
+13000,Georgia,2,"Population (midperiod, persons) 1",11137136,11165856,11192845,11215521
+13000,Georgia,3,Per capita personal income (dollars) 2,61921,62204,62372,63303
+15000,Hawaii *,1,"Personal income (millions of dollars, seasonally adjusted)",98631.1,99954.8,100947.3,101444.7
+15000,Hawaii *,2,"Population (midperiod, persons) 1",1444442,1445511,1446141,1446041
+15000,Hawaii *,3,Per capita personal income (dollars) 2,68283,69148,69805,70153
+16000,Idaho,1,"Personal income (millions of dollars, seasonally adjusted)",121282.4,123520.2,124594.3,127077.7
+16000,Idaho,2,"Population (midperiod, persons) 1",1990118,1997694,2005178,2012096
+16000,Idaho,3,Per capita personal income (dollars) 2,60942,61831,62136,63157
+17000,Illinois,1,"Personal income (millions of dollars, seasonally adjusted)",934489.9,939676.7,944132.5,955068.0
+17000,Illinois,2,"Population (midperiod, persons) 1",12684778,12701126,12713199,12717994
+17000,Illinois,3,Per capita personal income (dollars) 2,73670,73984,74264,75096
+18000,Indiana,1,"Personal income (millions of dollars, seasonally adjusted)",438878.4,442144.9,441144.0,444750.6
+18000,Indiana,2,"Population (midperiod, persons) 1",6907411,6918377,6928692,6936686
+18000,Indiana,3,Per capita personal income (dollars) 2,63537,63909,63669,64116
+19000,Iowa,1,"Personal income (millions of dollars, seasonally adjusted)",204285.7,204941.3,206524.5,208105.5
+19000,Iowa,2,"Population (midperiod, persons) 1",3232703,3238425,3243596,3247410
+19000,Iowa,3,Per capita personal income (dollars) 2,63193,63284,63671,64084
+20000,Kansas,1,"Personal income (millions of dollars, seasonally adjusted)",199398.6,201714.0,202339.5,204662.5
+20000,Kansas,2,"Population (midperiod, persons) 1",2963411,2968061,2972235,2975152
+20000,Kansas,3,Per capita personal income (dollars) 2,67287,67962,68077,68791
+21000,Kentucky,1,"Personal income (millions of dollars, seasonally adjusted)",261484.6,262573.6,264038.1,266652.7
+21000,Kentucky,2,"Population (midperiod, persons) 1",4573896,4583357,4591775,4598105
+21000,Kentucky,3,Per capita personal income (dollars) 2,57169,57288,57502,57992
+22000,Louisiana,1,"Personal income (millions of dollars, seasonally adjusted)",279688.4,281473.7,282664.3,284029.5
+22000,Louisiana,2,"Population (midperiod, persons) 1",4594120,4596352,4598194,4598467
+22000,Louisiana,3,Per capita personal income (dollars) 2,60880,61239,61473,61766
+23000,Maine,1,"Personal income (millions of dollars, seasonally adjusted)",94913.1,95476.3,96071.8,97928.3
+23000,Maine,2,"Population (midperiod, persons) 1",1402914,1404241,1405594,1406553
+23000,Maine,3,Per capita personal income (dollars) 2,67654,67991,68350,69623
+24000,Maryland,1,"Personal income (millions of dollars, seasonally adjusted)",488438.8,491325.1,493136.5,500956.6
+24000,Maryland,2,"Population (midperiod, persons) 1",6246087,6257240,6266454,6272243
+24000,Maryland,3,Per capita personal income (dollars) 2,78199,78521,78695,79869
+25000,Massachusetts,1,"Personal income (millions of dollars, seasonally adjusted)",664341.4,668945.0,670322.8,671440.6
+25000,Massachusetts,2,"Population (midperiod, persons) 1",7109844,7127062,7139979,7147113
+25000,Massachusetts,3,Per capita personal income (dollars) 2,93440,93860,93883,93946
+26000,Michigan,1,"Personal income (millions of dollars, seasonally adjusted)",634670.6,641552.5,640307.7,649080.8
+26000,Michigan,2,"Population (midperiod, persons) 1",10118820,10132815,10144716,10152018
+26000,Michigan,3,Per capita personal income (dollars) 2,62722,63314,63117,63936
+27000,Minnesota,1,"Personal income (millions of dollars, seasonally adjusted)",429843.1,430757.9,435062.0,440084.2
+27000,Minnesota,2,"Population (midperiod, persons) 1",5777824,5787795,5796991,5803924
+27000,Minnesota,3,Per capita personal income (dollars) 2,74395,74425,75050,75825
+28000,Mississippi,1,"Personal income (millions of dollars, seasonally adjusted)",150858.0,152602.4,153666.1,154979.3
+28000,Mississippi,2,"Population (midperiod, persons) 1",2943096,2942937,2943469,2943791
+28000,Mississippi,3,Per capita personal income (dollars) 2,51258,51854,52206,52646
+29000,Missouri,1,"Personal income (millions of dollars, seasonally adjusted)",400562.0,402541.8,404856.4,409509.0
+29000,Missouri,2,"Population (midperiod, persons) 1",6231181,6240441,6249492,6256691
+29000,Missouri,3,Per capita personal income (dollars) 2,64283,64505,64782,65451
+30000,Montana,1,"Personal income (millions of dollars, seasonally adjusted)",76027.0,76447.0,77050.2,78477.2
+30000,Montana,2,"Population (midperiod, persons) 1",1134965,1136432,1138076,1139590
+30000,Montana,3,Per capita personal income (dollars) 2,66986,67269,67702,68864
+31000,Nebraska,1,"Personal income (millions of dollars, seasonally adjusted)",142758.9,143961.3,143933.7,145130.7
+31000,Nebraska,2,"Population (midperiod, persons) 1",1998826,2003178,2007065,2010075
+31000,Nebraska,3,Per capita personal income (dollars) 2,71421,71866,71714,72202
+32000,Nevada,1,"Personal income (millions of dollars, seasonally adjusted)",222585.2,223997.4,225105.0,229170.0
+32000,Nevada,2,"Population (midperiod, persons) 1",3247740,3260752,3272465,3282182
+32000,Nevada,3,Per capita personal income (dollars) 2,68535,68695,68788,69822
+33000,New Hampshire,1,"Personal income (millions of dollars, seasonally adjusted)",115995.1,116482.8,116628.4,117638.4
+33000,New Hampshire,2,"Population (midperiod, persons) 1",1406379,1408080,1409773,1411046
+33000,New Hampshire,3,Per capita personal income (dollars) 2,82478,82725,82729,83370
+34000,New Jersey,1,"Personal income (millions of dollars, seasonally adjusted)",789320.2,797269.3,800223.1,809657.5
+34000,New Jersey,2,"Population (midperiod, persons) 1",9455707,9485390,9509202,9525300
+34000,New Jersey,3,Per capita personal income (dollars) 2,83476,84052,84152,85001
+35000,New Mexico,1,"Personal income (millions of dollars, seasonally adjusted)",121296.0,122604.1,123100.5,124575.7
+35000,New Mexico,2,"Population (midperiod, persons) 1",2127150,2129119,2130991,2132178
+35000,New Mexico,3,Per capita personal income (dollars) 2,57023,57584,57767,58426
+36000,New York,1,"Personal income (millions of dollars, seasonally adjusted)",1675446.9,1698893.9,1709334.3,1724224.4
+36000,New York,2,"Population (midperiod, persons) 1",19818886,19850180,19870948,19876852
+36000,New York,3,Per capita personal income (dollars) 2,84538,85586,86022,86745
+37000,North Carolina,1,"Personal income (millions of dollars, seasonally adjusted)",703360.3,712094.4,721842.7,732146.1
+37000,North Carolina,2,"Population (midperiod, persons) 1",10984159,11024945,11063865,11098256
+37000,North Carolina,3,Per capita personal income (dollars) 2,64034,64589,65243,65969
+38000,North Dakota,1,"Personal income (millions of dollars, seasonally adjusted)",56385.2,56378.0,56281.4,56952.1
+38000,North Dakota,2,"Population (midperiod, persons) 1",793701,795579,797193,798347
+38000,North Dakota,3,Per capita personal income (dollars) 2,71041,70864,70600,71338
+39000,Ohio,1,"Personal income (millions of dollars, seasonally adjusted)",752519.1,762360.0,764435.6,773288.6
+39000,Ohio,2,"Population (midperiod, persons) 1",11860611,11875247,11888475,11897266
+39000,Ohio,3,Per capita personal income (dollars) 2,63447,64197,64301,64997
+40000,Oklahoma,1,"Personal income (millions of dollars, seasonally adjusted)",253400.4,256241.6,257087.0,260443.0
+40000,Oklahoma,2,"Population (midperiod, persons) 1",4083607,4091317,4098976,4105614
+40000,Oklahoma,3,Per capita personal income (dollars) 2,62053,62631,62720,63436
+41000,Oregon,1,"Personal income (millions of dollars, seasonally adjusted)",297522.3,302125.7,302737.4,308989.8
+41000,Oregon,2,"Population (midperiod, persons) 1",4265369,4269843,4273561,4275402
+41000,Oregon,3,Per capita personal income (dollars) 2,69753,70758,70840,72272
+42000,Pennsylvania,1,"Personal income (millions of dollars, seasonally adjusted)",917587.4,925495.4,933424.9,941390.3
+42000,Pennsylvania,2,"Population (midperiod, persons) 1",13055660,13070431,13083150,13090227
+42000,Pennsylvania,3,Per capita personal income (dollars) 2,70283,70808,71346,71916
+44000,Rhode Island,1,"Personal income (millions of dollars, seasonally adjusted)",77117.3,77364.6,77883.7,78594.4
+44000,Rhode Island,2,"Population (midperiod, persons) 1",1108962,1111140,1112973,1114187
+44000,Rhode Island,3,Per capita personal income (dollars) 2,69540,69626,69978,70540
+45000,South Carolina,1,"Personal income (millions of dollars, seasonally adjusted)",323795.0,327450.8,329460.8,335590.9
+45000,South Carolina,2,"Population (midperiod, persons) 1",5444731,5467227,5489638,5510517
+45000,South Carolina,3,Per capita personal income (dollars) 2,59469,59893,60015,60900
+46000,South Dakota,1,"Personal income (millions of dollars, seasonally adjusted)",67893.8,68233.1,68286.0,69092.3
+46000,South Dakota,2,"Population (midperiod, persons) 1",922239,923822,925463,926914
+46000,South Dakota,3,Per capita personal income (dollars) 2,73618,73860,73786,74540
+47000,Tennessee,1,"Personal income (millions of dollars, seasonally adjusted)",462003.6,468891.3,469661.3,475258.3
+47000,Tennessee,2,"Population (midperiod, persons) 1",7197646,7217420,7236534,7253239
+47000,Tennessee,3,Per capita personal income (dollars) 2,64188,64967,64901,65524
+48000,Texas,1,"Personal income (millions of dollars, seasonally adjusted)",2101090.3,2117286.1,2131697.7,2155940.5
+48000,Texas,2,"Population (midperiod, persons) 1",31081219,31219714,31345268,31452265
+48000,Texas,3,Per capita personal income (dollars) 2,67600,67819,68007,68546
+49000,Utah,1,"Personal income (millions of dollars, seasonally adjusted)",228689.9,231232.9,232646.1,234971.0
+49000,Utah,2,"Population (midperiod, persons) 1",3480804,3495901,3509310,3520564
+49000,Utah,3,Per capita personal income (dollars) 2,65700,66144,66294,66742
+50000,Vermont,1,"Personal income (millions of dollars, seasonally adjusted)",44924.6,45477.4,45606.2,46183.7
+50000,Vermont,2,"Population (midperiod, persons) 1",648536,648480,648418,648170
+50000,Vermont,3,Per capita personal income (dollars) 2,69271,70129,70335,71252
+51000,Virginia,1,"Personal income (millions of dollars, seasonally adjusted)",669805.0,677806.5,680193.2,692114.5
+51000,Virginia,2,"Population (midperiod, persons) 1",8782424,8801234,8818353,8831673
+51000,Virginia,3,Per capita personal income (dollars) 2,76267,77013,77134,78367
+53000,Washington,1,"Personal income (millions of dollars, seasonally adjusted)",657050.4,667792.8,668497.6,681709.0
+53000,Washington,2,"Population (midperiod, persons) 1",7920173,7945185,7966518,7982554
+53000,Washington,3,Per capita personal income (dollars) 2,82959,84050,83913,85400
+54000,West Virginia,1,"Personal income (millions of dollars, seasonally adjusted)",97133.8,97702.5,97239.2,98704.9
+54000,West Virginia,2,"Population (midperiod, persons) 1",1770066,1769930,1770002,1769735
+54000,West Virginia,3,Per capita personal income (dollars) 2,54876,55201,54937,55774
+55000,Wisconsin,1,"Personal income (millions of dollars, seasonally adjusted)",398879.7,400605.5,404287.4,408521.1
+55000,Wisconsin,2,"Population (midperiod, persons) 1",5949261,5956810,5963732,5968459
+55000,Wisconsin,3,Per capita personal income (dollars) 2,67047,67252,67791,68447
+56000,Wyoming,1,"Personal income (millions of dollars, seasonally adjusted)",49630.7,50254.2,50800.2,50967.4
+56000,Wyoming,2,"Population (midperiod, persons) 1",586642,587274,587918,588451
+56000,Wyoming,3,Per capita personal income (dollars) 2,84601,85572,86407,86613
+91000,New England,1,"Personal income (millions of dollars, seasonally adjusted)",1336079.5,1345226.6,1350027.4,1359773.9
+91000,New England,2,"Population (midperiod, persons) 1",15339777,15369922,15394045,15408477
+91000,New England,3,Per capita personal income (dollars) 2,87099,87523,87698,88248
+92000,Mideast,1,"Personal income (millions of dollars, seasonally adjusted)",4017527.9,4061936.6,4085227.3,4127983.3
+92000,Mideast,2,"Population (midperiod, persons) 1",50319102,50413533,50486656,50526884
+92000,Mideast,3,Per capita personal income (dollars) 2,79841,80572,80917,81699
+93000,Great Lakes,1,"Personal income (millions of dollars, seasonally adjusted)",3159437.7,3186339.5,3194307.1,3230709.2
+93000,Great Lakes,2,"Population (midperiod, persons) 1",47520881,47584375,47638814,47672423
+93000,Great Lakes,3,Per capita personal income (dollars) 2,66485,66962,67053,67769
+94000,Plains,1,"Personal income (millions of dollars, seasonally adjusted)",1501127.4,1508527.4,1517283.6,1533536.2
+94000,Plains,2,"Population (midperiod, persons) 1",21919885,21957301,21992035,22018513
+94000,Plains,3,Per capita personal income (dollars) 2,68482,68703,68992,69648
+95000,Southeast,1,"Personal income (millions of dollars, seasonally adjusted)",5732488.5,5783984.4,5826635.0,5908292.7
+95000,Southeast,2,"Population (midperiod, persons) 1",88850223,89120835,89368189,89570242
+95000,Southeast,3,Per capita personal income (dollars) 2,64519,64900,65198,65963
+96000,Southwest,1,"Personal income (millions of dollars, seasonally adjusted)",2960578.1,2984599.4,3001693.8,3040999.1
+96000,Southwest,2,"Population (midperiod, persons) 1",44833941,45008717,45168374,45303789
+96000,Southwest,3,Per capita personal income (dollars) 2,66034,66312,66456,67125
+97000,Rocky Mountain,1,"Personal income (millions of dollars, seasonally adjusted)",962932.1,974328.1,977591.3,990528.1
+97000,Rocky Mountain,2,"Population (midperiod, persons) 1",13128801,13167455,13203253,13233464
+97000,Rocky Mountain,3,Per capita personal income (dollars) 2,73345,73995,74042,74850
+98000,Far West *,1,"Personal income (millions of dollars, seasonally adjusted)",4648551.2,4703545.4,4738093.5,4824677.9
+98000,Far West *,2,"Population (midperiod, persons) 1",56963324,57062351,57140275,57185192
+98000,Far West *,3,Per capita personal income (dollars) 2,81606,82428,82920,84369
+
+Legend/Footnotes
+1. Midquarter population estimates by state are derived by BEA based on unpublished U.S. Census Bureau estimates of beginning-of-month population.
+2. Per capita personal income is total personal income divided by total quarterly population estimates.
+* Estimates prior to 1950 are not available for Alaska and Hawaii.
+"Note. Millions of dollars, seasonally adjusted at annual rates. All dollar estimates are in current dollars (not adjusted for inflation). Calculations are performed on unrounded data."
+"  Last updated: June 27, 2025-- new statistics for 2025:Q1; revised statistics for 2024:Q1-2024:Q4."
