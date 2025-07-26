@@ -4,6 +4,8 @@
 
 Related file: [Personal-income-pandas.ipynb](https://github.com/Carinaaa/ML-Learning-Path/blob/main/Personal_income_pandas.ipynb)
 
+Related file: [Picture_filters_numpy.ipynb](https://github.com/Carinaaa/ML-Learning-Path/blob/main/Picture_filters_numpy.ipynb)
+
 ## Object classification for Traffic Sign
 
 :tv: Video resource: https://www.youtube.com/watch?v=tHL5STNJKag&list=PLqy3lUa2FUE3QDMRrPXVwlTMVjhNp6Jnj&index=4
